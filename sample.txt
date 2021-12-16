@@ -1,0 +1,22 @@
+>>> Running c:\poc\hob2hood\main.py
+ 
+Waiting for IR data...
+000   836
+001  1295
+002   836
+003   545
+004  1607
+005   510
+006   886
+007  1264
+008   872
+009   574
+010  1560
+011  2710
+012   848
+013   559
+014   878
+015   508
+016  1594
+
+Unknown protocol start 836 1295 Burst length 17 duration 16288
